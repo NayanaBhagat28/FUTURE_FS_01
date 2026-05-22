@@ -1,0 +1,51 @@
+<<<<<<< HEAD
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Production build
+client/build/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+=======
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Production build
+client/build/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+>>>>>>> 8ff4dcba4f589d4d92b16c2a81d6419a1f6f32f6
