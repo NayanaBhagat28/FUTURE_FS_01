@@ -332,8 +332,8 @@ To enable **backend functionality** (contact form, database, emails), deploy bac
    MONGODB_URI=your-mongodb-atlas-uri
    EMAIL_USER=your-email@gmail.com
    EMAIL_PASS=your-app-password
-   EMAIL_TO=sanjaysamson0522@gmail.com
-   CLIENT_URL=https://Samson-lgs.github.io/Future_FS_01
+   EMAIL_TO=nayanabhagath28@gmail.com
+   CLIENT_URL=https://github.com/NayanaBhagat28/Future_FS_01.git
    ```
 5. **Deploy** - Render will provide a backend URL
 6. **Update frontend** to use backend URL for API calls
