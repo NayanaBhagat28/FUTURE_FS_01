@@ -8,7 +8,7 @@ A modern, full-stack personal portfolio website built with React.js and Node.js,
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-success)
 
 ### 🌐 Live Deployment
-**Frontend**: [GitHub Pages](https://tedious-chin.surge.sh) (Static)  
+**Frontend**: [GitHub Pages](https://nayana-bhagath-portfolio.surge.sh/) (Static)  
 **Backend**: Not deployed (requires Render/Railway/Heroku for full functionality)
 
 ---
