@@ -34,7 +34,6 @@ A modern, full-stack personal portfolio website built with React.js and Node.js,
 A live portfolio website with source code hosted on GitHub.
 
 **Developer**: Nayana V 
-
 **Internship**: Future Interns - Full Stack Web Development
 
 ---
