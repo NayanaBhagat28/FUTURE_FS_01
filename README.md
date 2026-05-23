@@ -8,7 +8,7 @@ A modern, full-stack personal portfolio website built with React.js and Node.js,
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-success)
 
 ### 🌐 Live Deployment
-**Frontend**: [GitHub Pages](https://github.com/NayanaBhagat28/FUTURE_FS_01.git) (Static)  
+**Frontend**: [GitHub Pages](https://tedious-chin.surge.sh) (Static)  
 **Backend**: Not deployed (requires Render/Railway/Heroku for full functionality)
 
 ---
@@ -429,8 +429,8 @@ This project is licensed under the MIT License - feel free to use it for your ow
 
 ## 👨‍💻 Author
 
-**Samson Jose J**
-- Email: sanjaysamson0522@gmail.com
+**Nayana V**
+- Email: nayanabhagath28@gmail.com
 - LinkedIn: [Nayana Bhagath](https://www.linkedin.com/in/nayana-bhagath-a98b70358)
 - GitHub: [NayanaBhagat28](https://github.com/NayanaBhagat28/)
 
