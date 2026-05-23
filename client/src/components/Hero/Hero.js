@@ -35,7 +35,7 @@ const Hero = () => {
               </p>
 
               <div className="hero-buttons">
-                <a href="/resume.pdf" download className="btn-primary">
+                <a href="/Resume.pdf" download className="btn-primary">
                   Download Resume
                 </a>
               </div>
